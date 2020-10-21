@@ -1,1 +1,4 @@
-Initialized empty Git repository in /Users/aryam/AST14_2018/WEAKCN_2020/WRITEUP_PLOTS/.git/
+#### Weak CN Project
+Arya Maheshwari, 2018-2020
+
+Storing and organizing plots from weak CN project
